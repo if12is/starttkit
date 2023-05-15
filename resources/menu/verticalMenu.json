@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "url": "/home",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-home"
+    },
+    {
+      "url": "page-2",
+      "icon": "menu-icon tf-icons ti ti-movie",
+      "name": "Movies",
+      "slug": "pages-page-2"
+    },
+    {
+      "url": "page-3",
+      "icon": "menu-icon tf-icons ti ti-device-tv",
+      "name": "Series",
+      "slug": "pages-page-3"
+    }
+  ]
+}
